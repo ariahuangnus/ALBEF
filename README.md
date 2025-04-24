@@ -90,7 +90,7 @@ We provide the <a href="https://storage.googleapis.com/sfr-pcl-data-research/ALB
 --checkpoint [TA pretrained checkpoint]</pre> 
 
 ### Citation
-@inproceedings{ALBEF,
+<pre>@inproceedings{ALBEF,
       title={Align before Fuse: Vision and Language Representation Learning with Momentum Distillation}, 
       author={Junnan Li and Ramprasaath R. Selvaraju and Akhilesh Deepak Gotmare and Shafiq Joty and Caiming Xiong and Steven Hoi},
       year={2021},
